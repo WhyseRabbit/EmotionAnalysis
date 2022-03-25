@@ -17,3 +17,8 @@ SimuPerson class now has an "emotions" method that has eight basic feelings with
 (Reasearch link)[https://positivepsychology.com/emotion-wheel/]
 
 Changed emotions to flat ints for now.
+
+https://www.noldus.com/blog/how-emotions-are-made
+Some elements within this article might be of use. Neural Networking will be a future goal if product functions well.
+https://chicagoeft.com/the-four-components-of-emotion-guest-blogger-josh-marder-lmft/
+Four components: cognition, bodily experience, limbic experience, and action.

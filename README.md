@@ -11,3 +11,7 @@ Ultimately, it would be nice to "teach" AI about emotions, psychology, and maybe
 The SimuPerson class has been created, along with a function called "eventTrigger," which asks a question to determine stress. Currently, with the prototype, if stress exceeds 0, user will be asked if they coped well with the challenges of the day. The answer to this query will determine confidence.
 
 Within SimuPerson class, will include emotion function to track such things as joy, pride(will have direct correlation with confidence), amusement, sadness, anger, and fear.
+
+2022/03/25
+SimuPerson class now has an "emotions" method that has eight basic feelings with some mixed emotions introduced by comparing float scores of the "main" attributes. This will be a complex set of checks and balances that will be adjusted and rewritten many times before a viable product is possible.
+[https://positivepsychology.com/emotion-wheel/](Reasearch link)

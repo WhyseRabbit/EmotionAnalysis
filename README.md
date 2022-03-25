@@ -14,4 +14,6 @@ Within SimuPerson class, will include emotion function to track such things as j
 
 2022/03/25
 SimuPerson class now has an "emotions" method that has eight basic feelings with some mixed emotions introduced by comparing float scores of the "main" attributes. This will be a complex set of checks and balances that will be adjusted and rewritten many times before a viable product is possible.
-[https://positivepsychology.com/emotion-wheel/](Reasearch link)
+(Reasearch link)[https://positivepsychology.com/emotion-wheel/]
+
+Changed emotions to flat ints for now.

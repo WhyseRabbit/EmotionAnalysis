@@ -19,15 +19,15 @@ class SimuPerson:
         For now, the floats are simple, unfounded estimates that will certainly
         change through trial, error, and research
         """
-        self.joy = 0.00
-        self.trust = 0.00
-        self.fear = 0.00
-        self.surprise = 0.00
-        self.sadness = 0.00
-        self.disgust = 0.00
-        self.anger = 0.00
-        self.anticipation = 0.00
-        if self.joy >= 0.35 and self.trust >= 0.20:
-            self.love = 0.65
-        if self.joy >= 0.40 and self.trust >= 0.15:
-            self.aroused = 0.65
+        self.joy = 0
+        self.trust = 0
+        self.fear = 0
+        self.surprise = 0
+        self.sadness = 0
+        self.disgust = 0
+        self.anger = 0
+        self.anticipation = 0
+        if self.joy >= 1 and self.trust >= 1:
+            self.love = 1
+        if self.joy >= 1 and self.trust >= 1:
+            self.aroused = 1

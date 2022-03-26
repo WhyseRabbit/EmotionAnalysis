@@ -22,3 +22,6 @@ https://www.noldus.com/blog/how-emotions-are-made
 Some elements within this article might be of use. Neural Networking will be a future goal if product functions well.
 https://chicagoeft.com/the-four-components-of-emotion-guest-blogger-josh-marder-lmft/
 Four components: cognition, bodily experience, limbic experience, and action.
+
+Consider the 5 stages of grief: https://www.greatlakespsychologygroup.com/grief/5-stages-grief/
+One must, then, also question what counts as tragic enough to "warrant" grief. For every person, this "threshold" is different. One must naturally include a "stressThreshold" and include cross-functionality between "negative" emotions and the "stress" attribute. In an attempt to solve the "timing" of grief, a counter must be included, counting up to a random integer. In the future, mental health issues or lack of coping skills might add to this time if research supports such a thing. For now, we are assuming our SimuPerson is without mental abnormality.

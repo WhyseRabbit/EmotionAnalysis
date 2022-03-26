@@ -25,3 +25,15 @@ Four components: cognition, bodily experience, limbic experience, and action.
 
 Consider the 5 stages of grief: https://www.greatlakespsychologygroup.com/grief/5-stages-grief/
 One must, then, also question what counts as tragic enough to "warrant" grief. For every person, this "threshold" is different. One must naturally include a "stressThreshold" and include cross-functionality between "negative" emotions and the "stress" attribute. In an attempt to solve the "timing" of grief, a counter must be included, counting up to a random integer. In the future, mental health issues or lack of coping skills might add to this time if research supports such a thing. For now, we are assuming our SimuPerson is without mental abnormality.
+
+(Intermission: please forgive the random flow of this README file; for now, it is a diary of thoughts, queries, research, and ideas. It will be organized for better flow as the project approaches completion.)
+
+Why are floats the preferred method of measuring the emotions?
+Two words that everyone knows well: mixed emotions. Who hasn't heard a friend, relative, or coworker is going on vacation somewhere you've always dreamed, or at least somewhere cool, and been, to some degree, jealous? Depending on the relationship, you might be mostly happy for them, or, depending on your memories of the individual, it might be the triggering event to tell him how pompous he is.
+
+Relationships between things and "people" need to be established to store previous values of emotion. This can likely be done through implementing a dictionary, the "triggeringEvent" being the key and the updated "value" of emotions stored to either increase or decrease as more memories are made with that thing or person.
+
+But what about "ambient" emotion?
+Ever have that day where you wake up and just feel like it's going to be a bad day? And then, many time, you're provn right. This is due to perception and "cognitive bias" https://www.verywellmind.com/what-is-a-cognitive-bias-2794963
+
+AGAIN, for now, we are assuming our SimuPerson is well-adjusted, stable, and in a "neutral" state.

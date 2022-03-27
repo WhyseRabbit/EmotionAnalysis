@@ -67,6 +67,17 @@ class SimuPerson:
         if self.sad == 9:
             self.sad = self.grief = 10
             self.stress += 3 * (self.stress // 2)
+            self.griefTime = self.stress - self.confidence
+            while self.griefTime > 0:
+                self.denialTime = (self.griefTime // 3)
+                while self.denialTime > 0:
+                    self.griefTime, self.denialTime -= 1
+                    if self.denialTime == 1:
+                        self.anger += (self.griefTime // 2)
+                        if self.anger >= 10:
+                            self.eventExtremity = (self.anger % 10) # idea = introduce a random, stress-induced event
+                if self.eventExtremity > 2:
+                    self.angerTime = self.eventExtremity
         
         if self.bored == 3:
             self.bored = self.disgusted = 3

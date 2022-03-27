@@ -37,3 +37,12 @@ But what about "ambient" emotion?
 Ever have that day where you wake up and just feel like it's going to be a bad day? And then, many time, you're provn right. This is due to perception and "cognitive bias" https://www.verywellmind.com/what-is-a-cognitive-bias-2794963
 
 AGAIN, for now, we are assuming our SimuPerson is well-adjusted, stable, and in a "neutral" state.
+
+2022/03/26
+
+Using emotion wheels as inspiration, basic and more complicated emotions are being built. According to WebMD article, "Depression is not a normal part of grief, but a complication of it." https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind
+Speculation: perhaps the amount of stress the grief produces (on top of the stress from before the triggeringEvent) and confidence levels affect whether or not depression will become a symptom. If our stressTreshold is 100, 65 seems like a reasonable stress score to trigger depression. Anything under 50 will allow our SimuPerson to pass through the depression phase with relative ease. For the sake of argument, the timing of grief will equal stress - confidence.
+
+What if stress is over 50, but confidence is over 25?
+Perhaps depression comes from the time spent under stress from the grieving process?
+Need to begin networking for interviews. Could use professional insights to clarify, point out fallacies, and improve direction for this project.

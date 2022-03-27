@@ -46,3 +46,7 @@ Speculation: perhaps the amount of stress the grief produces (on top of the stre
 What if stress is over 50, but confidence is over 25?
 Perhaps depression comes from the time spent under stress from the grieving process?
 Need to begin networking for interviews. Could use professional insights to clarify, point out fallacies, and improve direction for this project.
+
+2022/03/27
+
+Began to implement grieving process based on time. Anger Extremity over 3 might result in a random event... For now, that is only an idea.

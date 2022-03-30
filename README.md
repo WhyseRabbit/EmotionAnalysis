@@ -50,3 +50,9 @@ Need to begin networking for interviews. Could use professional insights to clar
 2022/03/27
 
 Began to implement grieving process based on time. Anger Extremity over 3 might result in a random event... For now, that is only an idea.
+
+2022/03/30
+
+"Emotional AI" or "affective computing" is a much deeper study than I thought. For now, going to pause and read over the materials found here: https://github.com/AmrMKayid/awesome-affective-computing
+
+Insights might be found here: https://bernardmarr.com/what-is-artificial-emotional-intelligence/
